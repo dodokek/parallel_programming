@@ -1,0 +1,7 @@
+ArraySize,SequentialTime(ms),ParallelTime(ms)
+1000,0,4
+10000,2,2
+50000,6,3
+100000,8,13
+500000,48,25
+1000000,72,47

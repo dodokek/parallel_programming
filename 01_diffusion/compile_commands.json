@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-I/usr/include/openmpi-x86_64",
+      "-o",
+      "main.o",
+      "main.cc"
+    ],
+    "directory": "/home/dodo/study/cs_parallel/01_diffusion",
+    "file": "/home/dodo/study/cs_parallel/01_diffusion/main.cc",
+    "output": "/home/dodo/study/cs_parallel/01_diffusion/main.o"
+  }
+]
